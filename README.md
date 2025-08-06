@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Akansha Tiwari 👋
 
-<!--
-**akansha03-dev/akansha03-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Engineering | Pantnagar University  
+💻 Learning Data Structures 
+code with python and Java 
+📝 Passionate about Writing Poetries | 💃 Dancing enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+
+- 💻 Programming: Python, SQL, java
+- 📚 Learning: Data Structures, Git, GitHub
+- ✨ Creative Side: Poetry writing, Dancing
+
+---
+
+## 🌱 Currently Working On
+
+- Improving my coding skills with Python
+- Building my GitHub & LinkedIn presence
+- Preparing for future tech opportunities
+
+---
+
+## 🔗 Let's Connect
+
+- [LinkedIn Profile](https://www.linkedin.com/in/akanska-tiwari-1518782aa)
+- 📧 Email: amayratewari090@gmail.com *(replace with your real email if you want)*
+
+---
+
+> *“I believe every struggle adds a line to my story — and I’m writing a bestseller.”* ✨
